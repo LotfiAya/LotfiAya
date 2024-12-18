@@ -1,54 +1,80 @@
-<h1 align="center">Hi 👋, I'm Aya LOTFI</h1>
-<h3 align="center">🎓 Engineering Student in Cybersecurity 📍 EIDIA, Université Euro-Méditerranéenne de Fès</h3>
+  <h1 align="center">Hi 👋, I'm Aya Lotfi!</h1>
+  <h3 align="center">🎓 Engineering Student in Cybersecurity 📍 EIDIA, Université Euro-Méditerranéenne de Fès</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ayalotfi&label=Profile%20views&color=0e75b6&style=flat" alt="ayalotfi" /> 
-</p>
+  <hr>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayalotfi" alt="ayalotfi" />
-  </a> 
-</p>
+  <h3>🚀 About Me</h3>
+  <p><strong>🔐 Passionate about Cybersecurity:</strong> I'm a second-year engineering student specializing in cybersecurity. My goal is to build secure systems and deepen my expertise in ethical hacking, cryptography, and secure application development.</p>
+  <p><strong>💡 Hands-On Learner:</strong> I enjoy working on projects that challenge me to learn new tools and apply theoretical knowledge in practical scenarios.</p>
+  <p><strong>🎮 Tech Enthusiast:</strong> From creating video games to designing hardware systems, I love exploring diverse fields in technology.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aya-lotfi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-lotfi" height="30" width="40" />
-  </a>
-  <a href="mailto:aya.lotfi@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
+  <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-</p>
+  <h3>🛠️ Skills</h3>
+  <h4>Programming Languages:</h4>
+  <ul>
+    <li>Python (e.g., Pygame, Pandas)</li>
+    <li>JavaScript (for web development)</li>
+    <li>PHP, HTML, CSS (for building websites)</li>
+    <li>Arduino C (for embedded systems)</li>
+  </ul>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayalotfi&show_icons=true&locale=en&layout=compact" alt="ayalotfi" />
-</p>
+  <h4>Tools & Platforms:</h4>
+  <ul>
+    <li>Jenkins, Ansible, Git (for CI/CD pipelines)</li>
+    <li>Kali Linux, Maltego, SET (cybersecurity tools)</li>
+    <li>Canva, GIMP (design tools)</li>
+  </ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayalotfi&show_icons=true&locale=en" alt="ayalotfi" /></p>
+  <h4>Areas of Expertise:</h4>
+  <ul>
+    <li>Cybersecurity & Cryptography</li>
+    <li>Embedded Systems (Arduino projects)</li>
+    <li>Data Analysis (e.g., water quality evaluation with Python)</li>
+  </ul>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayalotfi&" alt="ayalotfi" />
-</p>
+  <hr>
+
+  <h3>🌟 Highlighted Projects</h3>
+  <h4>🎮 Find the Treasure Game</h4>
+  <ul>
+    <li>A complete video game built with Python and Pygame.</li>
+    <li>Features exciting levels, intuitive gameplay, and custom graphics.</li>
+  </ul>
+
+  <h4>🚰 Groundwater Quality Evaluation</h4>
+  <ul>
+    <li>Evaluated water quality using various indices and analyzed datasets in Python.</li>
+    <li>Applied advanced data manipulation techniques with Pandas.</li>
+  </ul>
+
+  <h4>🏗️ Elevator System with Arduino</h4>
+  <ul>
+    <li>Designed a functional 3-floor elevator system, including hardware and software integration.</li>
+  </ul>
+
+  <h4>🔒 Ransomware Simulation</h4>
+  <ul>
+    <li>Created a simulated ransomware attack as part of a hands-on cybersecurity project.</li>
+    <li>Used steganography, phishing, and ethical hacking techniques.</li>
+  </ul>
+
+  <hr>
+
+  <h3>📚 Ongoing Learning</h3>
+  <ul>
+    <li>Advanced cryptography and security protocols.</li>
+    <li>Automated deployment pipelines for secure applications.</li>
+  </ul>
+
+  <hr>
+
+  <h3>📫 Let's Connect!</h3>
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:aya.lotfi@example.com">aya.lotfi@example.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/aya-lotfi" target="_blank">Aya Lotfi</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/ayalotfi" target="_blank">AyaLotfi</a></li>
+  </ul>
+
+</body>
+</html>
