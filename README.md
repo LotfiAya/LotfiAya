@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Aya Lotfi!</h1>
-  <h3 align="center">🎓 Engineering Student in Cybersecurity 📍 EIDIA, Université Euro-Méditerranéenne de Fès</h3>
+  <h3>🎓 Engineering Student in Cybersecurity <br>📍 EIDIA, Université Euro-Méditerranéenne de Fès</h3>
 
   <hr>
 
