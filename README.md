@@ -1,7 +1,7 @@
 
   <h1 align="center">👋 Hi, I'm Aya Lotfi!</h1>
-  <p>🎓 <strong>Engineering Student in Cybersecurity</strong></p>
-  <p>📍 <strong>EIDIA, Université Euro-Méditerranéenne de Fès</strong></p>
+  <h3>🎓 <strong>Engineering Student in Cybersecurity</strong></h3>
+  <h3>📍 <strong>EIDIA, Université Euro-Méditerranéenne de Fès</strong></h3>
 
   <h2>🚀 About Me</h2>
   <ul>
