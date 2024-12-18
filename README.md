@@ -10,15 +10,6 @@
     <li><strong>🎮 Tech Enthusiast:</strong> Whether it's creating video games, building embedded systems, or securing networks, I’m passionate about exploring new areas within technology.</li>
   </ul>
 
-  <h2>🛠️ Skills</h2>
-  <ul>
-    <li><strong>Programming Languages:</strong> Python, JavaScript, PHP, HTML, CSS, Arduino C</li>
-    <li><strong>Cybersecurity Tools:</strong> Kali Linux, Maltego, SET, Splunk, Graylog, ELK, Suricata, Snort</li>
-    <li><strong>CI/CD & DevOps:</strong> Jenkins, Ansible, Git</li>
-    <li><strong>Design & Visualization:</strong> Canva, GIMP</li>
-    <li><strong>Embedded Systems:</strong> Arduino</li>
-  </ul>
-
   <h2>🌟 Ongoing Learning</h2>
   <ul>
     <li><strong>Intrusion Detection System (IDS):</strong> Creation of an IDS using Seccomp, SELinux, and integrating it into a SIEM system (Splunk, Graylog, ELK) to secure a server and detect intrusions.</li>
