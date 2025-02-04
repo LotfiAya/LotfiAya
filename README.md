@@ -12,7 +12,6 @@
 
   <h2>🌟 Ongoing Learning</h2>
   <ul>
-    <li><strong>Intrusion Detection System (IDS):</strong> Creation of an IDS using Seccomp, SELinux, and integrating it into a SIEM system (Splunk, Graylog, ELK) to secure a server and detect intrusions.</li>
     <li><strong>Advanced Cryptography & Security Protocols</strong></li>
   </ul>
 
