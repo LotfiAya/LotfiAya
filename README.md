@@ -65,7 +65,10 @@ Here are the tools and technologies I work with, based on my academic projects a
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 
-![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LotfiAya&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiAya&layout=compact&theme=radical)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LotfiAya&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Aya's Trophies" />
+  </a>
+</p>
