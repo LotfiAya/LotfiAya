@@ -65,6 +65,9 @@ Here are the tools and technologies I work with, based on my academic projects a
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LotfiAya&show_icons=true&theme=radical" alt="Aya's GitHub Stats" />
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LotfiAya&show_icons=true&theme=radical&count_private=true" alt="Aya's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiAya&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
