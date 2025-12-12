@@ -1,51 +1,70 @@
+<h1 align="center">👋 Hi, I'm Aya Lotfi!</h1>
+<h3 align="center">🎓 <strong>Future Cybersecurity Engineer</strong></h3>
+<h3 align="center">📍 <strong>EIDIA, Université Euro-Méditerranéenne de Fès</strong></h3>
 
-  <h1 align="center">👋 Hi, I'm Aya Lotfi!</h1>
-  <h3 align="center">🎓 <strong>Engineering Student in Cybersecurity</strong></h3>
-  <h3 align="center">📍  <strong>EIDIA, Université Euro-Méditerranéenne de Fès</strong></h3>
+<p align="center">
+  <em>Creating secure infrastructures & breaking them to make them stronger.</em>
+</p>
 
-  <h2>🚀 About Me</h2>
-  <ul>
-    <li><strong>🔐 Cybersecurity Enthusiast:</strong> I'm a second-year engineering student specializing in cybersecurity. My focus is on building secure systems and gaining expertise in ethical hacking, cryptography, and secure application development.</li>
-    <li><strong>💡 Hands-On Learner:</strong> I thrive on tackling projects that challenge me to apply both theoretical and practical knowledge using various tools and techniques.</li>
-    <li><strong>🎮 Tech Enthusiast:</strong> Whether it's creating video games, building embedded systems, or securing networks, I’m passionate about exploring new areas within technology.</li>
-  </ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lotfi-aya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:ayalotfi003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
-  <h2>🌟 Ongoing Learning</h2>
-  <ul>
-    <li><strong>Advanced Cryptography & Security Protocols</strong></li>
-  </ul>
+---
 
-   <h2>💻 Languages and Tools</h2>
-  <div>
-    <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-    <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-    <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-    <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  </div>
+### 🚀 About Me
 
-  <h2>📫 Let's Connect!</h2>
-  <ul>
-    <li><strong>Email:</strong> aya.lotfi003@example.com</li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aya-lotfi-989b52264/" target="_blank">Aya Lotfi</a></li>
-  </ul>
+I am a **3rd-year Engineering Student** specializing in Cybersecurity. Passionate about **Blue Teaming (SOC)**, **DevSecOps**, and **Ethical Hacking**, I aim to bridge the gap between development and security.
+
+- 🔭 **I’m currently looking for:** A **PFE (End-of-Studies Internship)** starting **February 1st, 2026**.
+- 🛡️ **My focus:** Operational Security (SOC/SIEM), Cloud Security, and Pentesting.
+- 💡 **I enjoy:** tackling CTFs, configuring SIEM solutions, and automating security pipelines.
+
+---
+
+### 🛠️ Technical Arsenal
+
+Here are the tools and technologies I work with, based on my academic projects and internships:
+
+**🔒 Cybersecurity & SOC**
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**☁️ Cloud & DevSecOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+**💻 Programming & Web**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📂 Featured Projects
+
+- **🔍 SOC Implementation with Elastic Stack**
+  *Deployed a SOC using Auditbeat and Kibana to analyze logs and detect real-time threats.*
+
+- **⚔️ Node.js App Pentesting & Hardening**
+  *Identified Critical vulnerabilities (XSS, CSRF) and secured the architecture using Helmet and Bcrypt.*
+
+- **🏗️ Secure CI/CD Pipeline**
+  *Integrated automated security testing (SAST) within Jenkins pipelines for secure Python Flask deployments.*
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LotfiAya&show_icons=true&theme=radical" alt="Aya's GitHub Stats" />
+</p>
