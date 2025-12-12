@@ -63,12 +63,4 @@ Here are the tools and technologies I work with, based on my academic projects a
 - **🏗️ Secure CI/CD Pipeline**
   *Integrated automated security testing (SAST) within Jenkins pipelines for secure Python Flask deployments.*
 
----
 
-### 🏆 Achievements
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LotfiAya&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Aya's Trophies" />
-  </a>
-</p>
