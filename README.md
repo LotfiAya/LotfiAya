@@ -63,4 +63,10 @@ Here are the tools and technologies I work with, based on my academic projects a
 - **🏗️ Secure CI/CD Pipeline**
   *Integrated automated security testing (SAST) within Jenkins pipelines for secure Python Flask deployments.*
 
+---
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLotfiAya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+</p>
+
 
